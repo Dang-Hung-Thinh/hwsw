@@ -1,0 +1,12 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../mux44_11/mux_tb.cpp in debug mode
+   Compiling ../../../../mux44_11/mux_func.cpp in debug mode
+   Generating csim.exe
+=== MUX 4:1 TEST ===
+sel = 0 -> y = 1
+sel = 1 -> y = 0
+sel = 2 -> y = 1
+sel = 3 -> y = 0
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

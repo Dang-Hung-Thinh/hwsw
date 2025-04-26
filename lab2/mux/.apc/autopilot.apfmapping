@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="mux_func.cpp" path="D:\mux44_11\mux_func.cpp"/>
+    <originFiles name="mux_func.h" path="D:\mux44_11\mux_func.h"/>
+    <originFiles name="mux_func.cpp" path="D:\mux44_11\mux_func.cpp"/>
+    <originFiles name="mux_func.h" path="D:\mux44_11\mux_func.h"/>
+  </source>
+  <testbench>
+    <originFiles name="mux_tb.cpp" path="D:\mux44_11\mux_tb.cpp"/>
+    <originFiles name="mux_tb.cpp" path="D:\mux44_11\mux_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

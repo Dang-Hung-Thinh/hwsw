@@ -1,0 +1,11 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+make: 'csim.exe' is up to date.
+
+Info: (I702) default timescale unit used for tracing: 1 ps (waveform.vcd)
+A = 0 -> Y = 0b00001
+A = 1 -> Y = 0b00010
+A = 2 -> Y = 0b00100
+A = 3 -> Y = 0b01000
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
